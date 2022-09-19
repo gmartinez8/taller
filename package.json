@@ -1,0 +1,14 @@
+{
+  "name": "taller",
+  "version": "1.0.0",
+  "description": "taller interview",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gustavo Martínez <gustavomartinez1990@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
